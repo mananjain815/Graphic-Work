@@ -80,4 +80,4 @@ graphic-design-posters/
 
 ## Usage
 
-These designs are shared as portfolio work. Please contact me before reusing or redistributing them.
+These designs are shared as portfolio work. 
