@@ -6,7 +6,7 @@ Both designs focus on bold typography, a strong visual hierarchy and clear calls
 
 ---
 
-## Projects
+## Projects 
 
 ### 1. Checkmate Chess – Tournament Poster
 
