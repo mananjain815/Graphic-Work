@@ -6,7 +6,7 @@ Both designs focus on bold typography, a strong visual hierarchy and clear calls
 
 ---
 
-## Projects 
+## Projects
 
 ### 1. Checkmate Chess – Tournament Poster
 
@@ -80,4 +80,4 @@ graphic-design-posters/
 
 ## Usage
 
-These designs are shared as portfolio work. 
+These designs are shared as portfolio work.
